@@ -77,7 +77,7 @@ const CTASection = () => {
                 </span>
               </h2>
               <p className="text-xl text-gray-400 mb-8">
-                Join thousands of forward-thinking businesses that have already transformed their payroll management with PayNova.
+                Join thousands of forward-thinking businesses that have already transformed their payroll with PayNova.
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4">
