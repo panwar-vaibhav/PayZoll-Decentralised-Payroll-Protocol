@@ -3,7 +3,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const testimonials = [
   {
-    quote: "PayNova has made payroll seamless and secure for our global team. It's the future of workforce management!",
+    quote: "PayZoll has made payroll seamless and secure for our global team. It's the future of workforce management!",
     author: "Sarah Chen",
     position: "CEO, TechForward",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150&h=150"
