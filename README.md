@@ -1,18 +1,9 @@
 # PayZoll
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 Welcome to **PayZoll**, a cutting-edge decentralized payroll system designed to revolutionize the way businesses handle employee payouts. With Payzoll, you can ensure timely, secure, and efficient payments with minimal human intervention, leveraging the power of blockchain technology and AI.
 
-Try running some of the following tasks:
 ## 🚀 Features
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
 - **Global Payroll in One Click:** Pay your entire workforce worldwide in a single transaction.
 - **Cost Efficiency:** Reduced transaction costs with blockchain technology.
 - **Transparency:** Immutable records for every transaction.
